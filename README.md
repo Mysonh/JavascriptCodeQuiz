@@ -13,4 +13,4 @@ A timed quiz to test your Javascript knowledge
 
 
 # Link
-[Code Quiz](https://mysonh.github.io/JavascriptCodeQuiz/quiz.html)
+[Code Quiz](https://mysonh.github.io/JavascriptCodeQuiz/)

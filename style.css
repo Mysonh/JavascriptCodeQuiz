@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;  
+}
+
+body{
+ align-items: center;
+ display: flex;
+ justify-content: center;
+ width: 100vw;
+ height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.button, .next{
+  background-color: blueviolet;
+  color:white ;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+}
+.button:hover{
+cursor: pointer;
+}
+
+.hide{
+display: none;
+}

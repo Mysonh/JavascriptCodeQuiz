@@ -1,0 +1,12 @@
+.option-container{
+    display: flex;
+    width: 75px;
+    background-color:blueviolet;
+    color: white;
+    margin-bottom: 0.5em;
+}
+
+.option-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4em rgb(52, 2, 105);
+}
